@@ -1,2 +1,2 @@
 # Grundschultemplate1
-Grundschultemplate1 ist ein Template für Moodlekurse
+Das Grundschultemplate ist im HTML-Generator. 
